@@ -1,0 +1,13 @@
+# NEXORA Cinematic Logo Intros — 3 نسخ (1080p / 6s / h264+aac)
+## v1-gold-particles (8MB): جزيئات ذهبية + ظهور الشعار + طبلة + letterbox
+## v2-dark-smoke (0.6MB): دخان داكن + ظهور بطيء + صعود + letterbox
+## v3-tech-glitch (27MB): جليتش + ظهور متقطع + sweep + طبلة + letterbox
+
+الوصفة (ffmpeg فقط — قابلة لإعادة الإنتاج بأي شعار):
+- الخلفية: ستوك الترسانة (gold-particles / dark-smoke / tech-glitch-bars)
+- الشعار: assets/nexora-logo.png (مُولّد بخط Cairo Black الذهبي — بدّله بشعار العميل بنفس الأبعاد)
+- الصوت: من حزمة SFX (boom-deep / riser-cinematic / reverse-sweep)
+- اللمسة: letterbox + تشبع + تلاشي صوتي
+
+لعميل جديد: بدّل PNG الشعار + غيّر النص في الأمر وأعد الترميز (دقائق).
+السعر المقترح: 15–25$ للحزمة، أو 49$+ مع تخصيص الشعار.
